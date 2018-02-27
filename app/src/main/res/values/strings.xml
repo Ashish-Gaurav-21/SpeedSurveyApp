@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CRASH</string>
+    <string name="action_settings">Settings</string>
+    <string name="Car_Manufacturer">Car Manufacturer</string>
+    <string name="Four_Wheeler_Company">Four Wheeler</string>
+    <string name="Two_Wheeler_Company">Two Wheeler</string>
+    <string name="Model">Model</string>
+
+    <string-array name="car_company">
+        <item>HONDA</item>
+        <item>MARUTI</item>
+        <item>TATA</item>
+        <item>NISSAN</item>
+        <item>RENAULT</item>
+        <item>MAHINDRA</item>
+        <item>HYUNDAI</item>
+        <item>FIAT</item>
+        <item>TOYOTA</item>
+        <item>VOLKSWAGEN</item>
+        <item>FORD</item>
+        <item>SKODA</item>
+        <item>CHEVROLET</item>
+        <item>BMW</item>
+        <item>AUDI</item>
+        <item>LCVTATA</item>
+        <item>MCVTATA</item>
+        <item>PIAGIOLCV</item>
+        <item>MAHINDRALCV</item>
+        <item>MAHINDRAHCV</item>
+        <item>ASHOKLEYLAND</item>
+    </string-array>
+
+    <string-array name="bike_company">
+        <item>BAJAJ</item>
+        <item>HERO</item>
+        <item>HONDA</item>
+        <item>KINETIC</item>
+        <item>LML</item>
+        <item>MAHINDRA</item>
+        <item>VESPA</item>
+        <item>ROYALENFIELD</item>
+        <item>SUZUKI</item>
+        <item>TVS</item>
+        <item>YAMAHA</item>
+    </string-array>
+
+</resources>
